@@ -5,3 +5,5 @@ odds.each do |odds|
   print "#{odds}"
 end
 
+
+10.times {print "Renaldy"} #this will print "Renaldy" 10 times
