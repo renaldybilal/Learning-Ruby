@@ -1,4 +1,4 @@
-puts "\t\toIntroduction to Ruby"
+puts "\t\tIntroduction to Ruby"
 print "Why we learn Ruby ? "
 ans = gets.chomp
 ans.capitalize!
